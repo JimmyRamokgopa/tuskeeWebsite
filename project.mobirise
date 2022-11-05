@@ -74,7 +74,7 @@
         "title": "tuskee - the project management app",
         "meta_descr": "The simple, efficient and effective way of managing your projects.",
         "header_custom": "",
-        "footer_custom": "<meta name=\"robots\" content=\"nofollow\">\n<meta name=\"googlebot\" content=\"noindex\">",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
